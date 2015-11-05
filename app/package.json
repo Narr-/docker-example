@@ -1,0 +1,8 @@
+{
+  "name": "docker-ubuntu-node",
+  "description": "Node.js Hello world app on Ubuntu using docker",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "private": true
+}
